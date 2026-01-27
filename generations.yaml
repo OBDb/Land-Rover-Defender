@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Land_Rover_Defender"
+
 generations:
   - name: "Land Rover 90/110 (Pre-Defender)"
     start_year: 1983
