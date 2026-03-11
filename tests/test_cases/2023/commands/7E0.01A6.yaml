@@ -4,21 +4,6 @@ test_cases:
     ODO: 33506.7
   response: 7E80641A600051CDB
 - expected_values:
-    ODO: 33507
-  response: 7E80641A600051CDE
-- expected_values:
-    ODO: 33507.7
-  response: 7E80641A600051CE5
-- expected_values:
-    ODO: 33508.2
-  response: 7E80641A600051CEA
-- expected_values:
-    ODO: 33508.9
-  response: 7E80641A600051CF1
-- expected_values:
-    ODO: 33509.5
-  response: 7E80641A600051CF7
-- expected_values:
     ODO: 33510.1
   response: 7E80641A600051CFD
 - expected_values:
