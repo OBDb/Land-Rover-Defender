@@ -40,5 +40,10 @@ test_cases:
     7E80641A60000DBBA
     7E80641A60000DBBA
 - expected_values:
-    ODO: 5632.2
-  response: 7E80641A60000DC02
+    ODO: 5650.1
+  response: |-
+    7E80641A60000DCB5
+    7E80641A60000DCB5
+- expected_values:
+    ODO: 5786.6
+  response: 7E80641A60000E20A
