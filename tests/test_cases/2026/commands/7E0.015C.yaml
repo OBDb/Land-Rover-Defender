@@ -9,10 +9,10 @@ test_cases:
     7E803415C3A
     7E803415C3A
 - expected_values:
-    EOT: 85
+    EOT: 71
   response: |-
-    7E803415C7D
-    7E803415C7D
+    7E803415C6F
+    7E803415C6F
 - expected_values:
     EOT: 88
   response: |-
