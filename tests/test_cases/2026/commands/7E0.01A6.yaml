@@ -50,5 +50,5 @@ test_cases:
     7E80641A60000E99C
     7E80641A60000E99C
 - expected_values:
-    ODO: 6144.1
-  response: 7E80641A60000F001
+    ODO: 6169.6
+  response: 7E80641A60000F100
