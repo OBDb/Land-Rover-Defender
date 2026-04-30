@@ -24,10 +24,10 @@ test_cases:
     7E803415BA2
     7E803415BA2
 - expected_values:
-    BAT_SOC: 64.31373
+    BAT_SOC: 64.70588
   response: |-
-    7E803415BA4
-    7E803415BA4
+    7E803415BA5
+    7E803415BA5
 - expected_values:
     BAT_SOC: 100
   response: 7E803415BFF
