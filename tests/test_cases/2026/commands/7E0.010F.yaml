@@ -9,5 +9,5 @@ test_cases:
     7E803410F46
     7E803410F46
 - expected_values:
-    IAT: 47
-  response: 7E803410F57
+    IAT: 48
+  response: 7E803410F58
