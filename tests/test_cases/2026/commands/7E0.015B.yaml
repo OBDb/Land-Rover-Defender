@@ -19,15 +19,10 @@ test_cases:
     7E803415B9A
     7E803415B9A
 - expected_values:
-    BAT_SOC: 63.52941
+    BAT_SOC: 70.98039
   response: |-
-    7E803415BA2
-    7E803415BA2
-- expected_values:
-    BAT_SOC: 64.70588
-  response: |-
-    7E803415BA5
-    7E803415BA5
+    7E803415BB5
+    7E803415BB5
 - expected_values:
     BAT_SOC: 100
   response: 7E803415BFF
