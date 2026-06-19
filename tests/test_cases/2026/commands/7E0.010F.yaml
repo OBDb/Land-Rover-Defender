@@ -9,10 +9,10 @@ test_cases:
     7E803410F40
     7E803410F40
 - expected_values:
-    IAT: 35
+    IAT: 38
   response: |-
-    7E803410F4B
-    7E803410F4B
+    7E803410F4E
+    7E803410F4E
 - expected_values:
     IAT: 42
   response: |-
