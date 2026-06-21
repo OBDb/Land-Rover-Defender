@@ -19,5 +19,10 @@ test_cases:
     7E803410F52
     7E803410F52
 - expected_values:
-    IAT: 56
-  response: 7E803410F60
+    IAT: 50
+  response: |-
+    7E803410F5A
+    7E803410F5A
+- expected_values:
+    IAT: 59
+  response: 7E803410F63
