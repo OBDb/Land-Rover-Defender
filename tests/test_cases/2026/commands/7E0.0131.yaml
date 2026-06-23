@@ -45,10 +45,10 @@ test_cases:
     7E804413113A5
     7E804413113A5
 - expected_values:
-    CLR_DIST: 5945
-  response: |-
-    7E80441311739
-    7E80441311739
-- expected_values:
     CLR_DIST: 6144
   response: '7E80441311800'
+- expected_values:
+    CLR_DIST: 6234
+  response: |-
+    7E8044131185A
+    7E8044131185A
