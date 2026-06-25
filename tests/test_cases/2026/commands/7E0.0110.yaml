@@ -22,5 +22,5 @@ test_cases:
     7E80441101E2F
     7E80441101E2F
 - expected_values:
-    MAF: 196.27
-  response: 7E80441104CAB
+    MAF: 212.99
+  response: '7E80441105333'
