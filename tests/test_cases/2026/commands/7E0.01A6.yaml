@@ -41,12 +41,12 @@ test_cases:
     7E80641A6000129D2
     7E80641A6000129D2
 - expected_values:
-    ODO: 10285.6
-  response: |-
-    7E80641A6000191C8
-    7E80641A6000191C8
-- expected_values:
     ODO: 11000.1
   response: |-
     7E80641A60001ADB1
     7E80641A60001ADB1
+- expected_values:
+    ODO: 11083.7
+  response: |-
+    7E80641A60001B0F5
+    7E80641A60001B0F5
