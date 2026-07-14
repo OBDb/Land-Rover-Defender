@@ -50,3 +50,8 @@ test_cases:
   response: |-
     7E80641A60001B0F5
     7E80641A60001B0F5
+- expected_values:
+    ODO: 11567.5
+  response: |-
+    7E80641A60001C3DB
+    7E80641A60001C3DB
