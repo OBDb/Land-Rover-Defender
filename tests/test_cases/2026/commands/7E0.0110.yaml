@@ -17,6 +17,11 @@ test_cases:
     7E80441100A0C
     7E80441100A0C
 - expected_values:
+    MAF: 39.97
+  response: |-
+    7E80441100F9D
+    7E80441100F9D
+- expected_values:
     MAF: 48.38
   response: |-
     7E804411012E6
