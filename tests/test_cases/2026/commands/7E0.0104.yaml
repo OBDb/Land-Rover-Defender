@@ -9,15 +9,15 @@ test_cases:
     7E803410400
     7E803410400
 - expected_values:
-    LOAD_PCT: 23.92157
+    LOAD_PCT: 30.58824
   response: |-
-    7E80341043D
-    7E80341043D
+    7E80341044E
+    7E80341044E
 - expected_values:
     LOAD_PCT: 52.94118
   response: |-
     7E803410487
     7E803410487
 - expected_values:
-    LOAD_PCT: 80.39216
-  response: 7E8034104CD
+    LOAD_PCT: 83.92157
+  response: 7E8034104D6
