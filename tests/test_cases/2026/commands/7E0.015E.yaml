@@ -9,10 +9,10 @@ test_cases:
     7E804415E0000
     7E804415E0000
 - expected_values:
-    FUEL_RATE: 3.1
+    FUEL_RATE: 1.55
   response: |-
-    7E804415E003E
-    7E804415E003E
+    7E804415E001F
+    7E804415E001F
 - expected_values:
     FUEL_RATE: 12.3
   response: |-
