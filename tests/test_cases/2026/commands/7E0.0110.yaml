@@ -32,10 +32,10 @@ test_cases:
     7E80441101E2F
     7E80441101E2F
 - expected_values:
-    MAF: 94.36
+    MAF: 84.61
   response: |-
-    7E804411024DC
-    7E804411024DC
+    7E8044110210D
+    7E8044110210D
 - expected_values:
     MAF: 110.83
   response: |-
