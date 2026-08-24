@@ -40,5 +40,10 @@ test_cases:
     7E804413C0F4F
     7E804413C0F4F
 - expected_values:
+    CATEMP11: 377.2
+  response: |-
+    7E804413C104C
+    7E804413C104C
+- expected_values:
     CATEMP11: 553.9
   response: 7E804413C1733
