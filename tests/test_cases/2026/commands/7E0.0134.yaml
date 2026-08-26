@@ -23,6 +23,12 @@ test_cases:
     7E8064134A097803D
     7E8064134A097803D
 - expected_values:
+    LAMBDA11_CURRENT: 1.35464
+    O2S11_CURRENT: 0.3125
+  response: |-
+    7E8064134AD658050
+    7E8064134AD658050
+- expected_values:
     LAMBDA11_CURRENT: 1.37866
     O2S11_CURRENT: 0.33203
   response: |-
