@@ -12,15 +12,15 @@ test_cases:
     7E80441100270
     7E80441100270
 - expected_values:
+    MAF: 17.99
+  response: |-
+    7E80441100707
+    7E80441100707
+- expected_values:
     MAF: 25.38
   response: |-
     7E804411009EA
     7E804411009EA
-- expected_values:
-    MAF: 25.72
-  response: |-
-    7E80441100A0C
-    7E80441100A0C
 - expected_values:
     MAF: 39.97
   response: |-
