@@ -3,8 +3,11 @@ supported_commands_by_ecu:
   "7DF":
   - 7DF.0104
   - 7DF.0105
+  - 7DF.010C
   - 7DF.010D
+  - 7DF.0111
   - 7DF.0131
+  - 7DF.0133
   - 7DF.0142
   - 7DF.0146
   "7E0":
@@ -73,6 +76,7 @@ supported_commands_by_ecu:
   - 0142:VPWR
   - 0146:AAT
   - 0149:APP_D
+  - 7E6.7EE.0104
 unsupported_commands_by_ecu:
   "7E0":
   - 7E0.221172:DEFENDER_BAT_V
@@ -80,9 +84,11 @@ unsupported_commands_by_ecu:
   - 7E0.22168E:DEFENDER_FUEL_RAIL_T
   - 7E0.7E8.2216C1:DEFENDER_FLI
   "7E6":
-  - 7E6.7EE.0104
   - 7E6.7EE.0105
+  - 7E6.7EE.010C
   - 7E6.7EE.010D
+  - 7E6.7EE.0111
   - 7E6.7EE.0131
+  - 7E6.7EE.0133
   - 7E6.7EE.0142
   - 7E6.7EE.0146
