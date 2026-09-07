@@ -1,6 +1,22 @@
 command_id: 7E0.0169
 test_cases:
 - expected_values:
+    EGR_A_ACT: 0.39216
+    EGR_A_ACT_SUP: 1
+    EGR_A_CMD: 0
+    EGR_A_CMD_SUP: 1
+    EGR_A_ERR: 99.21875
+    EGR_A_ERR_SUP: 1
+    EGR_B_ACT: 74.11765
+    EGR_B_ACT_SUP: 1
+    EGR_B_CMD: 76.86275
+    EGR_B_CMD_SUP: 1
+    EGR_B_ERR: -3.125
+    EGR_B_ERR_SUP: 1
+  response: |-
+    7E8100941693F0001FF
+    7E821C4BD7C00000000
+- expected_values:
     EGR_A_ACT: 12.94118
     EGR_A_ACT_SUP: 1
     EGR_A_CMD: 13.33333
