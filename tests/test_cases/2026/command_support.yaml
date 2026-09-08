@@ -164,6 +164,7 @@ unsupported_commands_by_ecu:
   - 7E0.22168E:DEFENDER_FUEL_RAIL_T
   - 7E0.7E8.2216C1:DEFENDER_FLI
   "7E1":
+  - 7E1.7E9.010C
   - 7E1.7E9.0142
   "7E6":
   - 7E6.7EE.0105
