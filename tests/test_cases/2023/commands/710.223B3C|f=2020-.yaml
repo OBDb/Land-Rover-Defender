@@ -1,0 +1,5 @@
+command_id: 710.223B3C|f=2020-
+test_cases:
+- expected_values:
+    DEFENDER_SUSPENSION_HEIGHT: 1
+  response: 71804623B3C01

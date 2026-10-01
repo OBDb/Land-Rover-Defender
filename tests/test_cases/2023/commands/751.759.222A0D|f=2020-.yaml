@@ -1,0 +1,32 @@
+command_id: 751.759.222A0D|f=2020-
+test_cases:
+- expected_values:
+    DEFENDER_TT_RR: 26
+  response: 75904622A0D4C
+- expected_values:
+    DEFENDER_TT_RR: 28
+  response: 75904622A0D4E
+- expected_values:
+    DEFENDER_TT_RR: 29
+  response: 75904622A0D4F
+- expected_values:
+    DEFENDER_TT_RR: 31
+  response: 75904622A0D51
+- expected_values:
+    DEFENDER_TT_RR: 33
+  response: 75904622A0D53
+- expected_values:
+    DEFENDER_TT_RR: 34
+  response: 75904622A0D54
+- expected_values:
+    DEFENDER_TT_RR: 36
+  response: 75904622A0D56
+- expected_values:
+    DEFENDER_TT_RR: 37
+  response: 75904622A0D57
+- expected_values:
+    DEFENDER_TT_RR: 38
+  response: 75904622A0D58
+- expected_values:
+    DEFENDER_TT_RR: 39
+  response: 75904622A0D59

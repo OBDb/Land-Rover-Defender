@@ -1,0 +1,32 @@
+command_id: 710.223B05|f=2020-
+test_cases:
+- expected_values:
+    DEFENDER_SUSPENSION_PRES_RR: 37.4
+  response: 71805623B0500BB
+- expected_values:
+    DEFENDER_SUSPENSION_PRES_RR: 37.6
+  response: 71805623B0500BC
+- expected_values:
+    DEFENDER_SUSPENSION_PRES_RR: 38.4
+  response: 71805623B0500C0
+- expected_values:
+    DEFENDER_SUSPENSION_PRES_RR: 38.8
+  response: 71805623B0500C2
+- expected_values:
+    DEFENDER_SUSPENSION_PRES_RR: 39
+  response: 71805623B0500C3
+- expected_values:
+    DEFENDER_SUSPENSION_PRES_RR: 39.2
+  response: 71805623B0500C4
+- expected_values:
+    DEFENDER_SUSPENSION_PRES_RR: 39.4
+  response: 71805623B0500C5
+- expected_values:
+    DEFENDER_SUSPENSION_PRES_RR: 39.6
+  response: 71805623B0500C6
+- expected_values:
+    DEFENDER_SUSPENSION_PRES_RR: 40.2
+  response: 71805623B0500C9
+- expected_values:
+    DEFENDER_SUSPENSION_PRES_RR: 40.4
+  response: 71805623B0500CA

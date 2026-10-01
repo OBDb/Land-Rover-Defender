@@ -1,0 +1,17 @@
+command_id: 7E4.7EC.224906|f=2020-
+test_cases:
+- expected_values:
+    DEFENDER_BATTERY_T_MIN: 4
+  response: 7EC0462490658
+- expected_values:
+    DEFENDER_BATTERY_T_MIN: 5.5
+  response: 7EC046249065B
+- expected_values:
+    DEFENDER_BATTERY_T_MIN: 7
+  response: 7EC046249065E
+- expected_values:
+    DEFENDER_BATTERY_T_MIN: 8
+  response: 7EC0462490660
+- expected_values:
+    DEFENDER_BATTERY_T_MIN: 8.5
+  response: 7EC0462490661

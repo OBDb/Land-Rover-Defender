@@ -1,0 +1,32 @@
+command_id: 7E6.222B07|f=2020-
+test_cases:
+- expected_values:
+    DEFENDER_FR_WHL_SPD: 0
+  response: 7EE04622B0700
+- expected_values:
+    DEFENDER_FR_WHL_SPD: 24
+  response: 7EE04622B0718
+- expected_values:
+    DEFENDER_FR_WHL_SPD: 55
+  response: 7EE04622B0737
+- expected_values:
+    DEFENDER_FR_WHL_SPD: 87
+  response: 7EE04622B0757
+- expected_values:
+    DEFENDER_FR_WHL_SPD: 107
+  response: 7EE04622B076B
+- expected_values:
+    DEFENDER_FR_WHL_SPD: 117
+  response: 7EE04622B0775
+- expected_values:
+    DEFENDER_FR_WHL_SPD: 118
+  response: 7EE04622B0776
+- expected_values:
+    DEFENDER_FR_WHL_SPD: 119
+  response: 7EE04622B0777
+- expected_values:
+    DEFENDER_FR_WHL_SPD: 120
+  response: 7EE04622B0778
+- expected_values:
+    DEFENDER_FR_WHL_SPD: 123
+  response: 7EE04622B077B
