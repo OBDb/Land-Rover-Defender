@@ -1,0 +1,11 @@
+command_id: 7E4.7EC.22490F|f=2020-
+test_cases:
+- expected_values:
+    DEFENDER_HVB_V: 45.47
+  response: 7EC0562490F11C3
+- expected_values:
+    DEFENDER_HVB_V: 48.59
+  response: 7EC0562490F12FB
+- expected_values:
+    DEFENDER_HVB_V: 48.65
+  response: 7EC0562490F1301

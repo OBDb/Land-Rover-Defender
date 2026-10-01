@@ -1,0 +1,26 @@
+command_id: 710.223B72|f=2020-
+test_cases:
+- expected_values:
+    DEFENDER_SUSPENSION_HEIGHT_REAR: 114
+  response: 71804623B7272
+- expected_values:
+    DEFENDER_SUSPENSION_HEIGHT_REAR: 115
+  response: 71804623B7273
+- expected_values:
+    DEFENDER_SUSPENSION_HEIGHT_REAR: 116
+  response: 71804623B7274
+- expected_values:
+    DEFENDER_SUSPENSION_HEIGHT_REAR: 117
+  response: 71804623B7275
+- expected_values:
+    DEFENDER_SUSPENSION_HEIGHT_REAR: 118
+  response: 71804623B7276
+- expected_values:
+    DEFENDER_SUSPENSION_HEIGHT_REAR: 119
+  response: 71804623B7277
+- expected_values:
+    DEFENDER_SUSPENSION_HEIGHT_REAR: 120
+  response: 71804623B7278
+- expected_values:
+    DEFENDER_SUSPENSION_HEIGHT_REAR: 122
+  response: 71804623B727A
