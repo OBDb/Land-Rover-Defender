@@ -59,10 +59,10 @@ supported_commands_by_ecu:
   - 0149:APP_D
 unsupported_commands_by_ecu:
   "7E0":
-  - 7E0.221172:DEFENDER_BAT_V
-  - 7E0.221670:DEFENDER_FUEL_RAIL_P
-  - 7E0.22168E:DEFENDER_FUEL_RAIL_T
-  - 7E0.7E8.2216C1:DEFENDER_FLI
+  - 7E0.221172
+  - 7E0.221670
+  - 7E0.22168E
+  - 7E0.7E8.2216C1
   "7E6":
   - 7E6.7EE.0101
   - 7E6.7EE.0104
