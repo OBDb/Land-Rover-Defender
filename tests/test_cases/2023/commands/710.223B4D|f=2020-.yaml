@@ -1,0 +1,5 @@
+command_id: 710.223B4D|f=2020-
+test_cases:
+- expected_values:
+    DEFENDER_DRIVING_MODE: 0
+  response: 71804623B4D00

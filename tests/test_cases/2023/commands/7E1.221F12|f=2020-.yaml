@@ -1,0 +1,8 @@
+command_id: 7E1.221F12|f=2020-
+test_cases:
+- expected_values:
+    DEFENDER_TQ_CONV_T: 38
+  response: 7E904621F1227
+- expected_values:
+    DEFENDER_TQ_CONV_T: 92
+  response: 7E904621F1242
