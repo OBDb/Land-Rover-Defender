@@ -19,5 +19,8 @@ test_cases:
     DEFENDER_GEAR_ENGAGED: 5
   response: 7E904621E1F05
 - expected_values:
+    DEFENDER_GEAR_ENGAGED: 6
+  response: 7E904621E1F06
+- expected_values:
     DEFENDER_GEAR_ENGAGED: 70
   response: 7E904621E1F46
