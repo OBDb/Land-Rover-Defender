@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     DEFENDER_SUMP_OIL_T: 87
   response: 7E8046203F37F
+- expected_values:
+    DEFENDER_SUMP_OIL_T: 88
+  response: 7E8046203F380
