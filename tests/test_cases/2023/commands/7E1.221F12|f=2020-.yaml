@@ -4,5 +4,5 @@ test_cases:
     DEFENDER_TQ_CONV_T: 38
   response: 7E904621F1227
 - expected_values:
-    DEFENDER_TQ_CONV_T: 92
-  response: 7E904621F1242
+    DEFENDER_TQ_CONV_T: 96
+  response: 7E904621F1244

@@ -1,6 +1,9 @@
 command_id: 710.223B72|f=2020-
 test_cases:
 - expected_values:
+    DEFENDER_SUSPENSION_HEIGHT_REAR: 113
+  response: 71804623B7271
+- expected_values:
     DEFENDER_SUSPENSION_HEIGHT_REAR: 114
   response: 71804623B7272
 - expected_values:
@@ -21,6 +24,9 @@ test_cases:
 - expected_values:
     DEFENDER_SUSPENSION_HEIGHT_REAR: 120
   response: 71804623B7278
+- expected_values:
+    DEFENDER_SUSPENSION_HEIGHT_REAR: 121
+  response: 71804623B7279
 - expected_values:
     DEFENDER_SUSPENSION_HEIGHT_REAR: 122
   response: 71804623B727A

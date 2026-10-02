@@ -1,0 +1,23 @@
+command_id: 7E1.221E69|f=2020-
+test_cases:
+- expected_values:
+    DEFENDER_ATF_T: 60
+  response: 7E904621E6964
+- expected_values:
+    DEFENDER_ATF_T: 61
+  response: 7E904621E6965
+- expected_values:
+    DEFENDER_ATF_T: 62
+  response: 7E904621E6966
+- expected_values:
+    DEFENDER_ATF_T: 63
+  response: 7E904621E6967
+- expected_values:
+    DEFENDER_ATF_T: 64
+  response: 7E904621E6968
+- expected_values:
+    DEFENDER_ATF_T: 65
+  response: 7E904621E6969
+- expected_values:
+    DEFENDER_ATF_T: 66
+  response: 7E904621E696A

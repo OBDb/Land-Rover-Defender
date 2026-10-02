@@ -1,0 +1,8 @@
+command_id: 710.223B71|f=2020-
+test_cases:
+- expected_values:
+    DEFENDER_SUSPENSION_HEIGHT_FRONT: 75
+  response: 71804623B714B
+- expected_values:
+    DEFENDER_SUSPENSION_HEIGHT_FRONT: 105
+  response: 71804623B7169

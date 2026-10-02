@@ -10,6 +10,9 @@ test_cases:
     DEFENDER_BATTERY_T_MAX: 6
   response: 7EC046249055C
 - expected_values:
+    DEFENDER_BATTERY_T_MAX: 6.5
+  response: 7EC046249055D
+- expected_values:
     DEFENDER_BATTERY_T_MAX: 7
   response: 7EC046249055E
 - expected_values:

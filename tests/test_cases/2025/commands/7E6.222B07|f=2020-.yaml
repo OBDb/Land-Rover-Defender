@@ -4,5 +4,5 @@ test_cases:
     DEFENDER_FR_WHL_SPD: 0
   response: 7EE04622B0700
 - expected_values:
-    DEFENDER_FR_WHL_SPD: 123
-  response: 7EE04622B077B
+    DEFENDER_FR_WHL_SPD: 50
+  response: 7EE04622B0732

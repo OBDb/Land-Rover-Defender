@@ -4,8 +4,8 @@ test_cases:
     DEFENDER_HVB_CELL_V_MIN: 3233
   response: 7EC056249040CA1
 - expected_values:
-    DEFENDER_HVB_CELL_V_MIN: 3272
-  response: 7EC056249040CC8
+    DEFENDER_HVB_CELL_V_MIN: 3293
+  response: 7EC056249040CDD
 - expected_values:
     DEFENDER_HVB_CELL_V_MIN: 3349
   response: 7EC056249040D15

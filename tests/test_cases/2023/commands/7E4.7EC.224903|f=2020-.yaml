@@ -4,8 +4,8 @@ test_cases:
     DEFENDER_HVB_CELL_V_MAX: 3243
   response: 7EC056249030CAB
 - expected_values:
-    DEFENDER_HVB_CELL_V_MAX: 3280
-  response: 7EC056249030CD0
+    DEFENDER_HVB_CELL_V_MAX: 3302
+  response: 7EC056249030CE6
 - expected_values:
     DEFENDER_HVB_CELL_V_MAX: 3353
   response: 7EC056249030D19
