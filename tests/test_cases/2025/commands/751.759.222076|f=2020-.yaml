@@ -1,0 +1,11 @@
+command_id: 751.759.222076|f=2020-
+test_cases:
+- expected_values:
+    DEFENDER_TP_FL: 2.91076
+  response: 7590562207600D4
+- expected_values:
+    DEFENDER_TP_FL: 2.93822
+  response: 7590562207600D6
+- expected_values:
+    DEFENDER_TP_FL: 2.96568
+  response: 7590562207600D8

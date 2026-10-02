@@ -7,6 +7,12 @@ test_cases:
     DEFENDER_BATTERY_T_MIN: 5.5
   response: 7EC046249065B
 - expected_values:
+    DEFENDER_BATTERY_T_MIN: 6
+  response: 7EC046249065C
+- expected_values:
+    DEFENDER_BATTERY_T_MIN: 6.5
+  response: 7EC046249065D
+- expected_values:
     DEFENDER_BATTERY_T_MIN: 7
   response: 7EC046249065E
 - expected_values:

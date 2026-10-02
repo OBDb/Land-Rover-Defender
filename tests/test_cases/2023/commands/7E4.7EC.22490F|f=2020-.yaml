@@ -4,8 +4,11 @@ test_cases:
     DEFENDER_HVB_V: 45.47
   response: 7EC0562490F11C3
 - expected_values:
-    DEFENDER_HVB_V: 48.59
-  response: 7EC0562490F12FB
+    DEFENDER_HVB_V: 46.07
+  response: 7EC0562490F11FF
+- expected_values:
+    DEFENDER_HVB_V: 46.08
+  response: 7EC0562490F1200
 - expected_values:
     DEFENDER_HVB_V: 48.65
   response: 7EC0562490F1301

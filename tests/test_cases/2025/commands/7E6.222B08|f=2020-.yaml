@@ -4,5 +4,5 @@ test_cases:
     DEFENDER_RL_WHL_SPD: 0
   response: 7EE04622B0800
 - expected_values:
-    DEFENDER_RL_WHL_SPD: 122
-  response: 7EE04622B087A
+    DEFENDER_RL_WHL_SPD: 50
+  response: 7EE04622B0832

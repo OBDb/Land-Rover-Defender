@@ -4,21 +4,6 @@ test_cases:
     DEFENDER_TP_RL: 3.26774
   response: 7590562207900EE
 - expected_values:
-    DEFENDER_TP_RL: 3.2952
-  response: 7590562207900F0
-- expected_values:
-    DEFENDER_TP_RL: 3.35012
-  response: 7590562207900F4
-- expected_values:
-    DEFENDER_TP_RL: 3.37758
-  response: 7590562207900F6
-- expected_values:
-    DEFENDER_TP_RL: 3.40504
-  response: 7590562207900F8
-- expected_values:
-    DEFENDER_TP_RL: 3.45996
-  response: 7590562207900FC
-- expected_values:
     DEFENDER_TP_RL: 3.48742
   response: 7590562207900FE
 - expected_values:
