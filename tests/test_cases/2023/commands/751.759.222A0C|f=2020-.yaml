@@ -1,8 +1,8 @@
 command_id: 751.759.222A0C|f=2020-
 test_cases:
 - expected_values:
-    DEFENDER_TT_RL: 25
-  response: 75904622A0C4B
+    DEFENDER_TT_RL: 22
+  response: 75904622A0C48
 - expected_values:
     DEFENDER_TT_RL: 45
   response: 75904622A0C5F

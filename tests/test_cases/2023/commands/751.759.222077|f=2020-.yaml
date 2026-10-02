@@ -1,8 +1,8 @@
 command_id: 751.759.222077|f=2020-
 test_cases:
 - expected_values:
-    DEFENDER_TP_FR: 2.91076
-  response: 7590562207700D4
+    DEFENDER_TP_FR: 2.6087
+  response: 7590562207700BE
 - expected_values:
     DEFENDER_TP_FR: 3.21282
   response: 7590562207700EA
