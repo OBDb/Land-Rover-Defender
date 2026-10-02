@@ -21,3 +21,12 @@ test_cases:
 - expected_values:
     DEFENDER_ATF_T: 66
   response: 7E904621E696A
+- expected_values:
+    DEFENDER_ATF_T: 67
+  response: 7E904621E696B
+- expected_values:
+    DEFENDER_ATF_T: 68
+  response: 7E904621E696C
+- expected_values:
+    DEFENDER_ATF_T: 69
+  response: 7E904621E696D

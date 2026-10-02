@@ -1,8 +1,8 @@
 command_id: 710.223B03|f=2020-
 test_cases:
 - expected_values:
-    DEFENDER_SUSPENSION_PRES_FR: 32.4
-  response: 71805623B0300A2
+    DEFENDER_SUSPENSION_PRES_FR: 32
+  response: 71805623B0300A0
 - expected_values:
     DEFENDER_SUSPENSION_PRES_FR: 44.8
   response: 71805623B0300E0
