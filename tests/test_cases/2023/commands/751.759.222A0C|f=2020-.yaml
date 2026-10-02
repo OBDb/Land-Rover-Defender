@@ -4,29 +4,5 @@ test_cases:
     DEFENDER_TT_RL: 25
   response: 75904622A0C4B
 - expected_values:
-    DEFENDER_TT_RL: 27
-  response: 75904622A0C4D
-- expected_values:
-    DEFENDER_TT_RL: 29
-  response: 75904622A0C4F
-- expected_values:
-    DEFENDER_TT_RL: 31
-  response: 75904622A0C51
-- expected_values:
-    DEFENDER_TT_RL: 33
-  response: 75904622A0C53
-- expected_values:
-    DEFENDER_TT_RL: 35
-  response: 75904622A0C55
-- expected_values:
-    DEFENDER_TT_RL: 36
-  response: 75904622A0C56
-- expected_values:
-    DEFENDER_TT_RL: 37
-  response: 75904622A0C57
-- expected_values:
-    DEFENDER_TT_RL: 39
-  response: 75904622A0C59
-- expected_values:
-    DEFENDER_TT_RL: 40
-  response: 75904622A0C5A
+    DEFENDER_TT_RL: 45
+  response: 75904622A0C5F

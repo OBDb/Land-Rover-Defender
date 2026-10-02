@@ -1,0 +1,11 @@
+command_id: 751.759.222A0B|f=2020-
+test_cases:
+- expected_values:
+    DEFENDER_TT_FR: 31
+  response: 75904622A0B51
+- expected_values:
+    DEFENDER_TT_FR: 33
+  response: 75904622A0B53
+- expected_values:
+    DEFENDER_TT_FR: 34
+  response: 75904622A0B54

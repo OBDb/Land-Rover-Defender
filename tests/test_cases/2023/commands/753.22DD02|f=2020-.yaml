@@ -1,6 +1,9 @@
 command_id: 753.22DD02|f=2020-
 test_cases:
 - expected_values:
+    DEFENDER_12V_BATTERY: 12.5
+  response: 75B0462DD0232
+- expected_values:
     DEFENDER_12V_BATTERY: 13
   response: 75B0462DD0234
 - expected_values:

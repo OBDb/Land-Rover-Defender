@@ -1,0 +1,5 @@
+command_id: 7E0.22061F|f=2020-
+test_cases:
+- expected_values:
+    DEFENDER_DPF_SOOT_MASS: 0
+  response: 7E80562061F0000
