@@ -1,8 +1,8 @@
 command_id: 7E0.2203F3|f=2020-
 test_cases:
 - expected_values:
-    DEFENDER_SUMP_OIL_T: 53
-  response: 7E8046203F35D
+    DEFENDER_SUMP_OIL_T: 46
+  response: 7E8046203F356
 - expected_values:
     DEFENDER_SUMP_OIL_T: 106
   response: 7E8046203F392
