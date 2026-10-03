@@ -1,32 +1,8 @@
 command_id: 7E0.2203F3|f=2020-
 test_cases:
 - expected_values:
-    DEFENDER_SUMP_OIL_T: 75
-  response: 7E8046203F373
-- expected_values:
-    DEFENDER_SUMP_OIL_T: 78
-  response: 7E8046203F376
-- expected_values:
-    DEFENDER_SUMP_OIL_T: 79
-  response: 7E8046203F377
-- expected_values:
-    DEFENDER_SUMP_OIL_T: 81
-  response: 7E8046203F379
-- expected_values:
-    DEFENDER_SUMP_OIL_T: 83
-  response: 7E8046203F37B
-- expected_values:
-    DEFENDER_SUMP_OIL_T: 84
-  response: 7E8046203F37C
-- expected_values:
-    DEFENDER_SUMP_OIL_T: 85
-  response: 7E8046203F37D
-- expected_values:
-    DEFENDER_SUMP_OIL_T: 86
-  response: 7E8046203F37E
-- expected_values:
-    DEFENDER_SUMP_OIL_T: 87
-  response: 7E8046203F37F
+    DEFENDER_SUMP_OIL_T: 24
+  response: 7E8046203F340
 - expected_values:
     DEFENDER_SUMP_OIL_T: 88
   response: 7E8046203F380
