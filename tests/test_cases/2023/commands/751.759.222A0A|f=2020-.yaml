@@ -4,5 +4,5 @@ test_cases:
     DEFENDER_TT_FL: 8
   response: 75904622A0A3A
 - expected_values:
-    DEFENDER_TT_FL: 47
-  response: 75904622A0A61
+    DEFENDER_TT_FL: 48
+  response: 75904622A0A62
