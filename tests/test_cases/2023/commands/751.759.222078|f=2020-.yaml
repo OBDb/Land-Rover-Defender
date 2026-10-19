@@ -7,5 +7,5 @@ test_cases:
     DEFENDER_TP_RR: 3.48742
   response: 7590562207800FE
 - expected_values:
-    DEFENDER_TP_RR: 0
+    DEFENDER_TP_RR: 3.51488
   response: '759056220780100'
