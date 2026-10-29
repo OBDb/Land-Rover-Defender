@@ -4,5 +4,5 @@ test_cases:
     DEFENDER_SUMP_OIL_T: 10
   response: 7E8046203F332
 - expected_values:
-    DEFENDER_SUMP_OIL_T: 106
-  response: 7E8046203F392
+    DEFENDER_SUMP_OIL_T: 107
+  response: 7E8046203F393
