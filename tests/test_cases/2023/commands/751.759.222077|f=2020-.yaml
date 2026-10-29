@@ -4,5 +4,5 @@ test_cases:
     DEFENDER_TP_FR: 1.48284
   response: 75905622077006C
 - expected_values:
-    DEFENDER_TP_FR: 3.24028
-  response: 7590562207700EC
+    DEFENDER_TP_FR: 3.35012
+  response: 7590562207700F4
