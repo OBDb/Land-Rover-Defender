@@ -4,5 +4,5 @@ test_cases:
     DEFENDER_DCDC_HV_V_IN: 87
   response: 75B056248370057
 - expected_values:
-    DEFENDER_DCDC_HV_V_IN: 99
-  response: 75B056248370063
+    DEFENDER_DCDC_HV_V_IN: 100
+  response: 75B056248370064
