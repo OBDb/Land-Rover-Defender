@@ -1,0 +1,17 @@
+command_id: 7E6.222B08|f=2020-
+test_cases:
+- expected_values:
+    DEFENDER_RL_WHL_SPD: 0
+  response: 7EE04622B0800
+- expected_values:
+    DEFENDER_RL_WHL_SPD: 2
+  response: 7EE04622B0802
+- expected_values:
+    DEFENDER_RL_WHL_SPD: 5
+  response: 7EE04622B0805
+- expected_values:
+    DEFENDER_RL_WHL_SPD: 33
+  response: 7EE04622B0821
+- expected_values:
+    DEFENDER_RL_WHL_SPD: 93
+  response: 7EE04622B085D
