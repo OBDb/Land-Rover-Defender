@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     DEFENDER_TT_RR: 22
   response: 75904622A0D48
+- expected_values:
+    DEFENDER_TT_RR: 34
+  response: 75904622A0D54

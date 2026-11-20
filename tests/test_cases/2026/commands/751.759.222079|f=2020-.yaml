@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     DEFENDER_TP_RL: 3.17163
   response: '7590562207900E7'
+- expected_values:
+    DEFENDER_TP_RL: 3.35012
+  response: 7590562207900F4

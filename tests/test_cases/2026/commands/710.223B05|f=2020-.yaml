@@ -4,6 +4,9 @@ test_cases:
     DEFENDER_SUSPENSION_PRES_RR: 30.8
   response: 71805623B05009A
 - expected_values:
+    DEFENDER_SUSPENSION_PRES_RR: 31.6
+  response: 71805623B05009E
+- expected_values:
     DEFENDER_SUSPENSION_PRES_RR: 39.8
   response: 71805623B0500C7
 - expected_values:
