@@ -1,0 +1,17 @@
+command_id: 726.72E.22DD09|f=2020-
+test_cases:
+- expected_values:
+    DEFENDER_VSS_726: 0
+  response: 72E0462DD0900
+- expected_values:
+    DEFENDER_VSS_726: 7
+  response: 72E0462DD0907
+- expected_values:
+    DEFENDER_VSS_726: 26
+  response: 72E0462DD091A
+- expected_values:
+    DEFENDER_VSS_726: 27
+  response: 72E0462DD091B
+- expected_values:
+    DEFENDER_VSS_726: 93
+  response: 72E0462DD095D
