@@ -7,5 +7,8 @@ test_cases:
     DEFENDER_SUSPENSION_HEIGHT_REAR: 116
   response: 71804623B7274
 - expected_values:
+    DEFENDER_SUSPENSION_HEIGHT_REAR: 132
+  response: 71804623B7284
+- expected_values:
     DEFENDER_SUSPENSION_HEIGHT_REAR: 134
   response: 71804623B7286
