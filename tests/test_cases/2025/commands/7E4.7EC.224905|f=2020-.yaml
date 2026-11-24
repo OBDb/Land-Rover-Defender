@@ -1,0 +1,14 @@
+command_id: 7E4.7EC.224905|f=2020-
+test_cases:
+- expected_values:
+    DEFENDER_BATTERY_T_MAX: -7.5
+  response: 7EC0462490541
+- expected_values:
+    DEFENDER_BATTERY_T_MAX: -7
+  response: 7EC0462490542
+- expected_values:
+    DEFENDER_BATTERY_T_MAX: -6.5
+  response: 7EC0462490543
+- expected_values:
+    DEFENDER_BATTERY_T_MAX: -5
+  response: 7EC0462490546

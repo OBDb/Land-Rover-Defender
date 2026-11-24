@@ -1,0 +1,17 @@
+command_id: 7E4.7EC.224903|f=2020-
+test_cases:
+- expected_values:
+    DEFENDER_HVB_CELL_V_MAX: 3233
+  response: 7EC056249030CA1
+- expected_values:
+    DEFENDER_HVB_CELL_V_MAX: 3246
+  response: 7EC056249030CAE
+- expected_values:
+    DEFENDER_HVB_CELL_V_MAX: 3290
+  response: 7EC056249030CDA
+- expected_values:
+    DEFENDER_HVB_CELL_V_MAX: 3295
+  response: 7EC056249030CDF
+- expected_values:
+    DEFENDER_HVB_CELL_V_MAX: 3302
+  response: 7EC056249030CE6

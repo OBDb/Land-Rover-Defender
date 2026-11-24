@@ -1,0 +1,17 @@
+command_id: 7E4.7EC.224904|f=2020-
+test_cases:
+- expected_values:
+    DEFENDER_HVB_CELL_V_MIN: 3225
+  response: 7EC056249040C99
+- expected_values:
+    DEFENDER_HVB_CELL_V_MIN: 3265
+  response: 7EC056249040CC1
+- expected_values:
+    DEFENDER_HVB_CELL_V_MIN: 3290
+  response: 7EC056249040CDA
+- expected_values:
+    DEFENDER_HVB_CELL_V_MIN: 3296
+  response: 7EC056249040CE0
+- expected_values:
+    DEFENDER_HVB_CELL_V_MIN: 3301
+  response: 7EC056249040CE5
