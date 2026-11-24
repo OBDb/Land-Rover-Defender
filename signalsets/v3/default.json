@@ -97,11 +97,11 @@
   "signals": [
     {"id": "DEFENDER_DCDC_V_OUT", "path": "Battery", "fmt": { "len": 8, "max": 25.5, "div": 10, "unit": "volts" }, "name": "DC-DC converter output voltage"}
   ]},
-{ "hdr": "753", "cmd": {"22": "4837"}, "freq": 1, "filter": { "from": 2020 }, "dbgfilter": { "to": 2022, "years": [2024, 2025], "from": 2027 },
+{ "hdr": "753", "cmd": {"22": "4837"}, "freq": 1, "filter": { "from": 2020 }, "dbgfilter": { "to": 2022, "years": [2024], "from": 2027 },
   "signals": [
     {"id": "DEFENDER_DCDC_HV_V_IN", "path": "Battery", "fmt": { "len": 16, "max": 65535, "unit": "volts" }, "name": "DC-DC converter high-voltage input"}
   ]},
-{ "hdr": "753", "cmd": {"22": "DD02"}, "freq": 1, "filter": { "from": 2020 }, "dbgfilter": { "to": 2022, "years": [2024, 2025], "from": 2027 },
+{ "hdr": "753", "cmd": {"22": "DD02"}, "freq": 1, "filter": { "from": 2020 }, "dbgfilter": { "to": 2022, "years": [2024], "from": 2027 },
   "signals": [
     {"id": "DEFENDER_12V_BATTERY", "path": "Battery", "fmt": { "len": 8, "max": 63.75, "div": 4, "unit": "volts" }, "name": "12V battery", "suggestedMetric": "starterBatteryVoltage"}
   ]},
@@ -161,7 +161,7 @@
   "signals": [
     {"id": "DEFENDER_ATF_T", "path": "Transmission", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Transmission fluid temperature", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "1F12"}, "freq": 5, "filter": { "from": 2020 }, "dbgfilter": { "to": 2022, "years": [2024, 2025], "from": 2027 },
+{ "hdr": "7E1", "cmd": {"22": "1F12"}, "freq": 5, "filter": { "from": 2020 }, "dbgfilter": { "to": 2022, "years": [2024], "from": 2027 },
   "signals": [
     {"id": "DEFENDER_TQ_CONV_T", "path": "Transmission", "fmt": { "len": 8, "max": 470, "min": -40, "mul": 2, "add": -40, "unit": "celsius" }, "name": "Torque converter temperature"}
   ]},
@@ -221,19 +221,19 @@
   "signals": [
     {"id": "DEFENDER_CABIN_T", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Cabin temperature"}
   ]},
-{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "4903"}, "freq": 5, "filter": { "from": 2020 }, "dbgfilter": { "to": 2022, "from": 2024 },
+{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "4903"}, "freq": 5, "filter": { "from": 2020 }, "dbgfilter": { "to": 2022, "years": [2024], "from": 2026 },
   "signals": [
     {"id": "DEFENDER_HVB_CELL_V_MAX", "path": "Battery", "fmt": { "len": 16, "max": 32767, "unit": "millivolts" }, "name": "Cell voltage, maximum"}
   ]},
-{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "4904"}, "freq": 5, "filter": { "from": 2020 }, "dbgfilter": { "to": 2022, "from": 2024 },
+{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "4904"}, "freq": 5, "filter": { "from": 2020 }, "dbgfilter": { "to": 2022, "years": [2024], "from": 2026 },
   "signals": [
     {"id": "DEFENDER_HVB_CELL_V_MIN", "path": "Battery", "fmt": { "len": 16, "max": 32767, "unit": "millivolts" }, "name": "Cell voltage, minimum"}
   ]},
-{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "4905"}, "freq": 5, "filter": { "from": 2020 }, "dbgfilter": { "to": 2022, "from": 2024 },
+{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "4905"}, "freq": 5, "filter": { "from": 2020 }, "dbgfilter": { "to": 2022, "years": [2024], "from": 2026 },
   "signals": [
     {"id": "DEFENDER_BATTERY_T_MAX", "path": "Battery", "fmt": { "len": 8, "max": 87.5, "min": -40, "div": 2, "add": -40, "unit": "celsius" }, "name": "Battery temperature, maximum"}
   ]},
-{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "4906"}, "freq": 5, "filter": { "from": 2020 }, "dbgfilter": { "to": 2022, "from": 2024 },
+{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "4906"}, "freq": 5, "filter": { "from": 2020 }, "dbgfilter": { "to": 2022, "years": [2024], "from": 2026 },
   "signals": [
     {"id": "DEFENDER_BATTERY_T_MIN", "path": "Battery", "fmt": { "len": 8, "max": 87.5, "min": -40, "div": 2, "add": -40, "unit": "celsius" }, "name": "Battery temperature, minimum"}
   ]},
@@ -245,7 +245,7 @@
   "signals": [
     {"id": "DEFENDER_HVB_CURR", "path": "Battery", "fmt": { "len": 16, "max": 819.175, "min": -500, "div": 40, "sign": true, "unit": "amps" }, "name": "High voltage battery current", "suggestedMetric": "tractionBatteryCurrent"}
   ]},
-{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "490F"}, "freq": 5, "filter": { "from": 2020 }, "dbgfilter": { "to": 2022, "from": 2024 },
+{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "490F"}, "freq": 5, "filter": { "from": 2020 }, "dbgfilter": { "to": 2022, "years": [2024], "from": 2026 },
   "signals": [
     {"id": "DEFENDER_HVB_V", "path": "Battery", "fmt": { "len": 16, "max": 450, "div": 100, "unit": "volts" }, "name": "High voltage battery voltage", "suggestedMetric": "tractionBatteryVoltage"}
   ]},

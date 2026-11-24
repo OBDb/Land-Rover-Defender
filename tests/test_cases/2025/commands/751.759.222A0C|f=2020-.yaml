@@ -4,6 +4,12 @@ test_cases:
     DEFENDER_TT_RL: 24
   response: 75904622A0C4A
 - expected_values:
+    DEFENDER_TT_RL: 27
+  response: 75904622A0C4D
+- expected_values:
+    DEFENDER_TT_RL: 28
+  response: 75904622A0C4E
+- expected_values:
     DEFENDER_TT_RL: 29
   response: 75904622A0C4F
 - expected_values:
